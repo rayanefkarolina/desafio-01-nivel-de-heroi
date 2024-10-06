@@ -1,5 +1,5 @@
 let nome = "Rayane"; //nome pode ser substituído
-let quantidadeDeXP = 10001;
+let quantidadeDeXP = 10001; //quantidade de xp pode ser substituída
 let nivel;
 
 if (quantidadeDeXP < 1000) {
